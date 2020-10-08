@@ -7,7 +7,7 @@ Jinja2==2.8
 MarkupSafe==0.23
 pprintpp==0.2.3
 psycopg2==2.6.1
-requests==2.10.0
+requests==2.20.0
 SQLAlchemy==1.0.12
 Werkzeug==0.11.9
 gunicorn
